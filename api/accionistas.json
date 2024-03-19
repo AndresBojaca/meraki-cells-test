@@ -1,0 +1,90 @@
+{
+	"accionistas": 
+	
+	[
+	  {
+		"NIT": "80808080",
+		"Nombre": "Lucia",
+		"Apellido": "Gaviria",
+		"TipoDocumento": "CC",
+		"Documento": 10282952,
+		"Porcentaje": "25%"
+	  },
+	  {
+		"NIT": "80808080",
+		"Nombre": "Catalina",
+		"Apellido": "Orjuela",
+		"TipoDocumento": "CC",
+		"Documento": 10282537,
+		"Porcentaje": "25%"
+	  },
+	  {
+		"NIT": "80808080",
+		"Nombre": "Manofacturas",
+		"Apellido": "S.A.S",
+		"TipoDocumento": "NIT",
+		"Documento": 10282353,
+		"CantidadAccionitas": 5,
+		"Porcentaje": "8%"
+	  },
+	  {
+		"NIT": "80808080",
+		"Nombre": "Daniel",
+		"Apellido": "Rojas",
+		"TipoDocumento": "CC",
+		"Documento": 10282356,
+		"Porcentaje": "22%"
+	  },
+	  {
+		"NIT": "80808080",
+		"Nombre": "Arturo",
+		"Apellido": "Henao",
+		"TipoDocumento": "CC",
+		"Documento": 10282340,
+		"Porcentaje": "11%"
+	  },
+	  {
+		"NIT": "90909090",
+		"Nombre": "Augusto",
+		"Apellido": "Garcia",
+		"TipoDocumento": "CC",
+		"Documento": 10282910,
+		"Porcentaje": "20%"
+	  },
+	  {
+		"NIT": "90909090",
+		"Nombre": "Catalina",
+		"Apellido": "Rodriguez",
+		"TipoDocumento": "CC",
+		"Documento": 10282511,
+		"Porcentaje": "10%"
+	  },
+	  {
+		"NIT": "90909090",
+		"Nombre": "Pinturas",
+		"Apellido": "S.A.S",
+		"TipoDocumento": "NIT",
+		"Documento": 10282312,
+		"CantidadAccionitas": 5,
+		"Porcentaje": "15%"
+	  },
+	  {
+		"NIT": "90909090",
+		"Nombre": "Daniel",
+		"Apellido": "Rojas",
+		"TipoDocumento": "CC",
+		"Documento": 10282313,
+		"Porcentaje": "9%"
+	  },
+	  {
+		"NIT": "90909090",
+		"Nombre": "Ana",
+		"Apellido": "Sofia Enao",
+		"TipoDocumento": "CC",
+		"Documento": 10282314,
+		"Porcentaje": "40%"
+	  }
+	]
+	
+  }
+  
