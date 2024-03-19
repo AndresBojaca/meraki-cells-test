@@ -41,7 +41,6 @@ class UpdatePage extends intl(CellsPage) {
   constructor() {
     super();
     this.pageTitle = 'Actualización de Datos';
-    this.shareholders = [];
     this.i18nKeys = DEFAULT_I18N_KEYS;
   }
 
